@@ -8,6 +8,6 @@ Our team also did principal component reduction on the Word2Vec embedding for tw
 Our prediction models based on tweets and news separately have an accuracy of 60%, based on combination of both news and tweets has an accuracy of 54%. We made time series models for stock price movement which had 90%+ accuracy and treated them as a benchmark. We have also shared how the analysis can be extended for other use cases.
 
 ### Data Source
-Tweets: Webscraped Twitter
-News: Webscraped Nasdaq search result stie
-Stock Price: Downloaded from YahooFinance
+- Tweets: Webscraped Twitter
+- News: Webscraped Nasdaq search result stie
+- Stock Price: Downloaded from YahooFinance
