@@ -1,7 +1,7 @@
 # Stock Price Movement Prediction
 This is a group project. Team members are Jing Li, Jacqueline Huang, Paridhi Agal.
 
-### GOAL
+### Goal
 The goal of this project is to predict stock price movement of Tesla using relevant tweets and news.
 
 ### Data Source
