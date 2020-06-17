@@ -9,7 +9,7 @@ The goal of this project is to predict stock price movement of Tesla using relev
 ### Data Source
 - [Twitter](https://twitter.com/search?q=tesla&src=typed_query)
 - [Nasdaq News](https://www.nasdaq.com/search?q=tesla&page=1&sort_by=relevant)
-- [Yahoo Finance Stock Price](https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch)
+- [Yahoo Finance](https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch)
 
 
 ### Analysis
