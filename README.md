@@ -13,6 +13,8 @@ The goal of this project is to predict stock price movement of Tesla using relev
 
 
 ### Analysis
+![Word2Vec Tweets Word Chart](https://github.com/mmokki/Stock_Price_Prediction/blob/master/Plots/Word2Vec%20Tweets%20Word%20Chart.png)
+
 The analysis used two different textual representations, Word2vec for tweets and Doc2Vec for news articles. Our team applied sentiment analysis and supervised machine learning model to predict stock price movement for Tesla.
 
 We did principal component reduction on the Word2Vec embedding for tweets. We predicted the direction of stock market movements for the next day (will it rise or fall?) and the percent change bracket for the next day as well. Our assumption is that positive news and tweets in social media about a company would encourage people to invest in the stock, and as a result the stock price of that company would increase.
